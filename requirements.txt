@@ -1,7 +1,8 @@
 pandas
-openai==0.27.6
-langchain==0.0.181
-streamlit
-PyPDF2
 python-docx
 pdfminer.six
+langchain==0.0.181
+streamlit
+urllib
+tempfile
+
